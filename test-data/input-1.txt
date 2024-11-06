@@ -1,0 +1,3 @@
+# Create a ship with 1 empty torpedo store and 1 with 1 torpedo in it
+GT4500,1,0,0,0
+TORPEDO,ALL  # should have fired from the primary store
